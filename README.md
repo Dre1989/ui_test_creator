@@ -1,7 +1,7 @@
 ========================================
 
 This project is a integration between angular and python3 cherrypy.
-This includes a postgres-sql 9.5 database handler wrapper around psycoPg2.
+This includes a postgres-sql 9.5 database handler wrapper around psycopg2.
 User authentication is also added in the default backend calls.
 There is also functionality to init the database you wish to create on defualt.
 
